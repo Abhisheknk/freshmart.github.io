@@ -1,0 +1,22 @@
+{
+  "name": "html5project",
+  "version": "1.0.0",
+  "description": "Developer: ABHISHEK NK",
+  "main": "index.js",
+  "engines": {
+    "node": "12.13.0",
+    "npm": "6.13.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "./index.html"
+  },
+  "author": "ABHISHEK N K",
+  "license": "ISC"
+}
